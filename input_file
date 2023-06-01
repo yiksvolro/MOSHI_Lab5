@@ -1,0 +1,24 @@
+23
+2
+5
+5
+Teacher 1: Math, English, Science, History
+Teacher 2: Math, English, Science, Music
+Teacher 3: Math, English, Science, History
+Teacher 4: PE, Choreography
+ÑlassRoom 1
+ClassRoom 2
+ClassRoom 3
+PE Room
+Dance Room
+Music Room
+Class A
+Class B
+Class C
+Math, false, None
+English, false, None
+Science, false, None
+History, false, None
+PE, true, PE Room
+Choreography, true, Dance Room
+Music, true, Music Room
